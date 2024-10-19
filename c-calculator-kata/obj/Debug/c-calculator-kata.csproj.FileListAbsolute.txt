@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\bin\Debug\c-calculator-kata.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\bin\Debug\c-calculator-kata.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\bin\Debug\c-calculator-kata.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\obj\Debug\c-calculator-kata.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\obj\Debug\c-calculator-kata.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\obj\Debug\c-calculator-kata.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-calculator-kata\c-calculator-kata\obj\Debug\c-calculator-kata.pdb
